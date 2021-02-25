@@ -6,5 +6,5 @@ Estudante dedicado, carismático e com amor por resolver problemas. Atualmente f
 :computer: Back-end: Java, SpringBoot, MySQL
 ✨ Front-end: HTML, CSS, Javascript, Angular
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernando-sabalete"><img src="linkedinlogo.png" alt="LinkedIn"> width = "100"</a>
+  <a href="https://www.linkedin.com/in/fernando-sabalete"><img src="linkedinlogo.png" alt="LinkedIn" width = "50"></a>
 </p>

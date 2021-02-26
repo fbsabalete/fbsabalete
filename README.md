@@ -11,11 +11,11 @@ Estudante dedicado, carismático e com amor por resolver problemas. Atualmente f
   <a href="https://www.linkedin.com/in/fernando-sabalete"><img src="linkedinlogo.png" alt="LinkedIn" width = "50"></a>
 </p>
 
-<h4>Foco de desenvolvimento atual:</h4>
-<a href="https://github.com/fbsabalete/connecto">
-  <p align="center">
+<p align="center">
+  <h4>Foco de desenvolvimento atual:</h4>
+  <a href="https://github.com/fbsabalete/connecto">
     <img src="logo connecto.png" alt="Connecto Logo" width = "70">
     <img src=https://github-readme-stats.vercel.app/api/pin/?username=fbsabalete&repo=connecto>
-  </p>
-</a>
+  </a>
+</p>
 

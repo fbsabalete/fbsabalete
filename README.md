@@ -12,6 +12,6 @@ Estudante dedicado, carismático e com amor por resolver problemas. Atualmente f
 </p>
 
 <h4>Foco de desenvolvimento atual:</h4>
-<a href="https://github.com/fbsabalete/connecto"><img src="https://imgur.com/a/4Q1lHBZ" alt="Connecto Logo" width = "70"></a>
+<a href="https://github.com/fbsabalete/connecto"><img src="https://imgur.com/aHUbihx" alt="Connecto Logo" width = "70"></a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fbsabalete&repo=connecto)](https://github.com/fbsabalete/connecto)
 
